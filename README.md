@@ -5,9 +5,7 @@ Welcome to my GitHub repository! This is where I document my progress and showca
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Projects](#projects)
-    - [Project 1: Title](#project-1-title)
-    - [Project 2: Title](#project-2-title)
-    - [Project 3: Title](#project-3-title)
+    - [Project N: Title](#project-N-title)
 3. [Courses](#courses)
 4. [Contact](#contact)
 
